@@ -1,5 +1,3 @@
-# 💫 About Me:
-Exploring the code's canvas, embracing the unknown journey ahead.
 
 
 # 💻 Tech Stack:
